@@ -16,3 +16,5 @@ def subtract(x,y):
 def printing(x,y):
 	pass
 
+def divide(x,y):
+	pass
