@@ -7,5 +7,10 @@ Finished the kernel and understood the kernel. Finished 62,63,110
 def add(x,y):
 	pass
 
+<<<<<<< HEAD
 def multiply(x,y):
 	pass
+=======
+def subtract(x,y):
+	pass
+>>>>>>> 24bec96dae648327a2ea0f2ff3b7610a9ba12679
