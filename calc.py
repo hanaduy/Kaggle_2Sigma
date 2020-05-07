@@ -6,3 +6,6 @@ Finished the kernel and understood the kernel. Finished 62,63,110
 
 def add(x,y):
 	pass
+
+def multiply(x,y):
+	pass
