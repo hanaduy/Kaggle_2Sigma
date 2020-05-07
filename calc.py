@@ -13,3 +13,6 @@ def multiply(x,y):
 def subtract(x,y):
 	pass
 
+def printing(x,y):
+	pass
+
